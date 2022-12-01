@@ -1,0 +1,8 @@
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\bin\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.deps.json
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\bin\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.dll
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\obj\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\obj\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.AssemblyInfoInputs.cache
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\obj\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.AssemblyInfo.cs
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\bin\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.pdb
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\obj\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.dll
+E:\CoreApp\TaxApplication\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\obj\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.pdb

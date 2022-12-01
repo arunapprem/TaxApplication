@@ -1,0 +1,14 @@
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApp.Domain.Service.deps.json
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApp.Domain.Service.dll
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApp.Domain.Service.pdb
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.csprojAssemblyReference.cache
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.csproj.CoreCompileInputs.cache
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.AssemblyInfoInputs.cache
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.AssemblyInfo.cs
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.dll
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.pdb
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.dll
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApp.Infrastructure.DataAccess.pdb
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\obj\Debug\netcoreapp2.1\TaxApp.Domain.Service.csproj.CopyComplete
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApplication.Utility.dll
+E:\CoreApp\TaxApplication\TaxApp.Domain.Service\TaxApp.Domain.Service\bin\Debug\netcoreapp2.1\TaxApplication.Utility.pdb

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess\TaxApp.Infrastructure.DataAccess.csproj" />
+    <ProjectReference Include="..\..\TaxApplication.Utility\TaxApplication.Utility\TaxApplication.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

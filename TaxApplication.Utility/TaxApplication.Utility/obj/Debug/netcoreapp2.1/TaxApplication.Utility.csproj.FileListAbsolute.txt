@@ -1,0 +1,9 @@
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\bin\Debug\netcoreapp2.1\TaxApplication.Utility.deps.json
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\bin\Debug\netcoreapp2.1\TaxApplication.Utility.dll
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\bin\Debug\netcoreapp2.1\TaxApplication.Utility.pdb
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\obj\Debug\netcoreapp2.1\TaxApplication.Utility.csproj.CoreCompileInputs.cache
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\obj\Debug\netcoreapp2.1\TaxApplication.Utility.AssemblyInfoInputs.cache
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\obj\Debug\netcoreapp2.1\TaxApplication.Utility.AssemblyInfo.cs
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\obj\Debug\netcoreapp2.1\TaxApplication.Utility.dll
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\obj\Debug\netcoreapp2.1\TaxApplication.Utility.pdb
+E:\CoreApp\TaxApplication\TaxApplication.Utility\TaxApplication.Utility\obj\Debug\netcoreapp2.1\TaxApplication.Utility.csprojAssemblyReference.cache
